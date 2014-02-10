@@ -1,3 +1,5 @@
+https://travis-ci.org/mdruger/encoding-method-test#
+
 This is a simple encoding method
 and associated tests.
 
