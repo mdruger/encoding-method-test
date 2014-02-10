@@ -2,4 +2,7 @@ language: python
 python:
   - "2.6"
   - "2.7"
-script: test_get_webpage.py
+
+install: "pip install . --use-mirrors"
+
+script: python test_get_webpage.py
