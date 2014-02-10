@@ -2,7 +2,7 @@ This is a simple encoding method
 and associated tests.
 
 Run the test scripts from the command
-line or use nosy.  If nosy, then
+line or use nosy.  If using nosy, then
 comment out the following lines:
 
     if __name__ == '__main__':
