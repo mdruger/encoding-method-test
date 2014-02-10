@@ -1,4 +1,4 @@
-https://travis-ci.org/mdruger/encoding-method-test#
+
 .. image:: https://travis-ci.org/mdruger/encoding-method-test.png?branch=master
     :target: https://travis-ci.org/mdruger/encoding-method-test#
 This is a simple encoding method
